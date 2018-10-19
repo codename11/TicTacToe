@@ -5,7 +5,7 @@ You can find the most recent version of this guide [here](https://github.com/fac
 
 ## Table of Contents:
 
-##This project is just a upgrade of tutorial tic-tac-toe project from official React page. List of suggested upgrades can be seen originally in [official page](https://reactjs.org/tutorial/tutorial.html#wrapping-up). And they're displayed below also.
+## This project is just a upgrade of tutorial tic-tac-toe project from official React page. List of suggested upgrades can be seen originally in [official page](https://reactjs.org/tutorial/tutorial.html#wrapping-up). And they're displayed below also.
 
 ### 1. Display the location for each move in the format (col, row) in the move history list.
 ### 2. Bold the currently selected item in the move list.
