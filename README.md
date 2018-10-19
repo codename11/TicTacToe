@@ -14,4 +14,4 @@ You can find the most recent version of this guide [here](https://github.com/fac
 ### 5. When someone wins, highlight the three squares that caused the win.
 ### 6. When no one wins, display a message about the result being a draw.
 
-
+#### This is done in React and it also uses several react libraries.
