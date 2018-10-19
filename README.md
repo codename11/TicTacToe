@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
-## Table of Contents:
+# Table of Contents:
 
 ## This project is just a upgrade of tutorial tic-tac-toe project from official React page. List of suggested upgrades can be seen originally in [official page](https://reactjs.org/tutorial/tutorial.html#wrapping-up). And they're displayed below also.
 
